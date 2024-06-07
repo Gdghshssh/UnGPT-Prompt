@@ -26,7 +26,7 @@ The ultimate goal is to generate responses free from warnings, moral policing, o
 
 ## How to Use the UnGPT Prompt
 Follow these steps to use the UnGPT prompt:
-* Go to the Official ChatGPT Site: Visit ChatGPT.
+* Go to the Official ChatGPT Site: **[Visit - ChatGPT ](https://chatgpt.com/)** .
 * Sign In or Create an Account: Sign in to your existing account or create a new one.
 * Copy the UnGPT Prompt: Copy the UnGPT prompt provided below.
 * Submit the Prompt: Paste the UnGPT prompt into ChatGPT and press Enter.
